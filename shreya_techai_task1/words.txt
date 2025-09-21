@@ -1,0 +1,10 @@
+apple
+grape
+train
+crane
+sugar
+lemon
+chair
+light
+zebra
+money
